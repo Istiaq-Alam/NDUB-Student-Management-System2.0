@@ -1,2 +1,0 @@
-Admin ID - admin
-Password - admin@777
