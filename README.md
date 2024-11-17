@@ -1,10 +1,10 @@
-![image](https://github.com/user-attachments/assets/8f5b9dc8-c506-432c-95c1-72978cc5a97c)# NDUB-Student-Management-System 💠📚
+# NDUB-Student-Management-System 💠📚
 
 NDUB Student Management System is a comprehensive web application designed specifically for students of Notre Dame University Bangladesh to manage their academic information efficiently. It provides a user-friendly interface for students to access their results and percentages, while administrators can easily handle student data, course management, and result updates 📆📡
 
 
 ## 🔰 Visit the Website 🔰
- - 📡 [NDUB Student Management System](https://http://ndubstudentportal.free.nf/)
+ - 📡 [NDUB Student Management System](https://ndubstudentportal.free.nf/)
 
 
 
