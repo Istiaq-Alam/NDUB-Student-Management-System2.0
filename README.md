@@ -7,7 +7,6 @@ NDUB Student Management System is a comprehensive web application designed speci
  - 📡 [NDUB Student Management System](https://ndubstudentportal.free.nf/)
 
 
-
 ## ----------------------------------- Key Features ---------------------------------
 
  ###  **🔰 Student Portal :** 
@@ -55,6 +54,7 @@ NDUB Student Management System is a comprehensive web application designed speci
 - **Improved Communication :** Fosters better communication between students and administrators regarding academic performance.
 This system provides a user-friendly and secure platform for Notre Dame University to effectively manage student results and information, ultimately contributing to a more efficient and transparent academic experience.
 # 📸 Screenshots :
+![ndubsms](https://github.com/user-attachments/assets/2ab6392b-7f08-432f-a420-e8de18ec0bab)
 - ## 👨‍🎓 Student Portal -
 ![1loginPage](https://github.com/Istiaq-Alam/NDUB-Student-Management-System/assets/168295675/ee664aaa-4841-4c9f-98d1-baad228e3a24)
 - Student Result portal -
