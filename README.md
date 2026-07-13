@@ -97,7 +97,7 @@ This system provides a user-friendly and secure platform for Notre Dame Universi
 
 
 NDUB Student Management System aims to simplify academic management for both students and administrators, ensuring a smooth and efficient academic experience at Notre Dame University Bangladesh. 📡
-## ✅ Feedback 💭
+## ✅ Feedback 💭     
 
 If you have any feedback, please reach out to us at istiaqlm@gmail.com
 
