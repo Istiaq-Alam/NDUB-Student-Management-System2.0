@@ -4,7 +4,7 @@ NDUB Student Management System is a comprehensive web application designed speci
 
       
 ## 🔰 Visit the Website 🔰
- - 📡 [NDUB Student Management System](https://ndubstudentportal.free.nf/)
+ - 📡 [NDUB Student Management System](https://ndubstudentportal.free.nf/) *Closed*
 
 
 ## ----------------------------------- Key Features ---------------------------------
